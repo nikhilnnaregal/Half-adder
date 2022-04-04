@@ -1,1 +1,1 @@
-# Half-adder
+# Half-adder using verilog
